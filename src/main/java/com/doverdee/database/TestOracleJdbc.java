@@ -1,4 +1,4 @@
-package com.doverdee;
+package com.doverdee.database;
 
 import oracle.jdbc.OracleTypes;
 
